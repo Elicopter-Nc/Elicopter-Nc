@@ -1,7 +1,7 @@
 # Hi 👋, I'm Eli
 
 
-- 🔭 I'm currently working on **https://github.com/Elicopter-Nc/desktop-app**
+- 🔭 I'm currently working on **https://github.com/Elicopter-Nc/portfolio**
 
 - 🌱 I'm currently learning **React**
 
