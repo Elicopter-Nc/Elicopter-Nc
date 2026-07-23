@@ -24,8 +24,3 @@
 <br>
 
 ![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/commits.svg) ![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/repos.svg)
-
-
-![Contribution Map](https://commit-craft.wjz-p.workers.dev/api/map/Elicopter-Nc.svg)
-
-
