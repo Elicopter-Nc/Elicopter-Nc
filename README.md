@@ -1,5 +1,10 @@
-![Player Passport](https://commit-craft.wjz-p.workers.dev/api/card/Elicopter-Nc.svg?quote=Full-stack+dev)
+<div align='center'>
 
+<p align="center">
+  <a href="https://github.com/Elicopter-Nc">
+    <img src="https://commit-craft.wjz-p.workers.dev/api/card/Elicopter-Nc.svg?quote=Full-stack+dev" alt="Elicopter Player Passport" width="450" />
+  </a>
+</p>
 
 ### Languages
 <div>
@@ -23,7 +28,17 @@
 
 <br>
 
-![Repo Card](https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/kairos.svg) ![Repo Card](https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/Focus.svg)
+<div align='center'>
+<p align="center">
+  <a href="https://github.com/Elicopter-Nc/Focus"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/kairos.svg" alt="Focus" width="45%" /></a>
+  <a href="https://github.com/Elicopter-Nc/Focus"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/Focus.svg" alt="Focus" width="45%" /></a>
+</p>
 
 
-![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/commits.svg) ![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/repos.svg)
+<p align="center">
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/commits.svg" alt="Commits" height="300" /></a>
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/stars.svg" alt="Stars" height="300" /></a>
+  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/repos.svg" alt="Repos" height="300" /></a>
+</p>
+
+</div>
