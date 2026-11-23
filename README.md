@@ -23,4 +23,7 @@
 
 <br>
 
+![Repo Card](https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/kairos.svg) ![Repo Card](https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/Focus.svg)
+
+
 ![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/commits.svg) ![Banner](https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/repos.svg)
