@@ -1,44 +1,16 @@
-<div align='center'>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Elicopter-Nc">
-    <img src="https://commit-craft.wjz-p.workers.dev/api/card/Elicopter-Nc.svg?quote=Full-stack+dev" alt="Elicopter Player Passport" width="450" />
-  </a>
-</p>
+<a href="https://github.com/Elicopter-Nc"><img src="assets/passeport.svg" width="100%" alt="Eli · Full-stack dev : carte posée sur un bureau, avec avatar, date d'arrivée sur GitHub, stars, commits et followers, et un téléphone qui affiche mes derniers commits" /></a>
 
-### Languages
-<div>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>
-</div>
+<img src="assets/stack.svg" width="100%" alt="Langages : HTML, CSS, JavaScript, TypeScript, Python, PHP, C. Bases de données : MySQL, PostgreSQL. Frameworks et librairies : React, Angular, Node.js, Vite, Electron, Spring Boot. Outils et OS : Git, VS Code, Docker, Ubuntu." />
 
-### Frameworks & Libraries
-<div>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" alt="Electron" title="Electron"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/>
-</div>
+<!-- dossier:start -->
+<a href="https://github.com/Elicopter-Nc?tab=repositories"><img src="assets/dossier-00.svg" width="3.333%" align="top" alt="Dossier Repos" /></a><a href="https://github.com/Elicopter-Nc/Focus"><img src="assets/dossier-01.svg" width="11.000%" align="top" alt="Onglet du repo Focus : ouvrir le repo" /></a><a href="https://github.com/Elicopter-Nc/kairos"><img src="assets/dossier-02.svg" width="11.000%" align="top" alt="Onglet du repo kairos : ouvrir le repo" /></a><a href="https://github.com/Elicopter-Nc?tab=repositories"><img src="assets/dossier-03.svg" width="74.617%" align="top" alt="Repos épinglés : voir tous mes repos" /></a>
+<a href="https://github.com/Elicopter-Nc?tab=repositories"><img src="assets/repos.svg" width="100%" align="top" alt="Dossier de mes repos épinglés" /></a>
+<!-- dossier:end -->
 
-### Databases
-<div>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-</div>
+<img src="assets/stats.svg" width="100%" alt="Calendrier de mes contributions du mois, compteurs de commits, stars et repos, et langages les plus utilisés" />
 
-### Tools & OS
-<div>
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/> <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
-</div>
-
-<br>
-
-<div align='center'>
-<p align="center">
-  <a href="https://github.com/Elicopter-Nc/Focus"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/kairos.svg" alt="Focus" width="45%" /></a>
-  <a href="https://github.com/Elicopter-Nc/Focus"><img src="https://commit-craft.wjz-p.workers.dev/api/repo/Elicopter-Nc/Focus.svg" alt="Focus" width="45%" /></a>
-</p>
-
-
-<p align="center">
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/commits.svg" alt="Commits" height="300" /></a>
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/stars.svg" alt="Stars" height="300" /></a>
-  <img src="https://commit-craft.wjz-p.workers.dev/api/banner/Elicopter-Nc/repos.svg" alt="Repos" height="300" /></a>
-</p>
+<a href="https://elicopter-nc.github.io/portfolio/"><img src="assets/contact-portfolio.svg" height="60" alt="Mon portfolio" /></a>
 
 </div>
