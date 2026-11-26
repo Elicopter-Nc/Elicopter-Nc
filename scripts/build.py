@@ -206,9 +206,11 @@ def github_data():
         for lang, n in get(f"https://api.github.com/repos/{USER}/{r['name']}/languages", token).items():
             total[lang] = total.get(lang, 0) + n
     d["languages"] = sorted(total.items(), key=lambda x: -x[1])
-    # activité récente : derniers commits sur les repos poussés le plus récemment
+    # activité récente : derniers commits sur les repos poussés le plus récemment, repo de profil compris.
+    # Les commits automatiques du workflow sont écartés par le filtre author= (leur auteur est github-actions[bot]).
+    publics = [r for r in repos if not r["fork"] and not r["private"]]
     acts = []
-    for r in sorted(mine, key=lambda r: r["pushed_at"], reverse=True)[:6]:
+    for r in sorted(publics, key=lambda r: r["pushed_at"], reverse=True)[:6]:
         try:
             for c in get(f"https://api.github.com/repos/{USER}/{r['name']}/commits?author={USER}&per_page=4", token):
                 acts.append({"repo": r["name"], "msg": c["commit"]["message"].splitlines()[0], "date": iso_dt(c["commit"]["author"]["date"])})
