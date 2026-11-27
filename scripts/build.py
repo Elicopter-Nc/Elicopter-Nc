@@ -7,7 +7,7 @@ derniers commits) viennent de l'API GitHub et sont rafraîchis par .github/workf
 
 Usage : GITHUB_TOKEN=... python scripts/build.py
 """
-import base64, html, io, json, os, urllib.request
+import base64, hashlib, html, io, json, os, re, urllib.request
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -747,6 +747,20 @@ def contacts():
         s.save(f"contact-{key}.svg")
 
 
+def versionner_readme():
+    """Ajoute à chaque image du README une empreinte de son contenu (assets/x.svg?v=1a2b3c4d).
+    Quand une image change, son adresse change aussi : ni GitHub ni le navigateur ne peuvent
+    resservir une ancienne version (sinon les morceaux du dossier se mélangent)."""
+    readme = ROOT / "README.md"
+    txt = readme.read_text(encoding="utf-8")
+
+    def stamp(m):
+        f = OUT / m.group(1)
+        return f"assets/{m.group(1)}?v={hashlib.md5(f.read_bytes()).hexdigest()[:8]}" if f.exists() else m.group(0)
+
+    readme.write_text(re.sub(r"assets/([\w.-]+\.svg)(\?v=[0-9a-f]+)?", stamp, txt), encoding="utf-8")
+
+
 if __name__ == "__main__":
     OUT.mkdir(exist_ok=True)
     data = github_data()
@@ -756,3 +770,4 @@ if __name__ == "__main__":
     readme_dossier(data)
     stats(data)
     contacts()
+    versionner_readme()
